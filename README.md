@@ -19,7 +19,7 @@ GhubScan relies on GitHub's **public APIs** [API 1](https://api.github.com/users
 
 ## ❓ How to Mask Your Information?
 
-*(You cannot mask your information, including your email address. It is advisable to create a noreply email on GitHub or use an email solely for GitHub)*  
+*(To hide your information, you need to have a noreply email on GitHub, which looks like this: [ID+name@users.noreply.github.com])*  
 Your email address will appear in the API as soon as you have posted two repositories
 
 ---
