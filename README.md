@@ -1,5 +1,5 @@
 # 🔎 GhubScan - OSINT Tool  
-![GhubScan](https://github.com/user-attachments/assets/157de8d0-a6e8-4385-a79c-890dbfe73960)
+<img src="https://github.com/user-attachments/assets/157de8d0-a6e8-4385-a79c-890dbfe73960" width="120px" height="120">
 
 **GhubScan** is an OSINT tool specifically designed to collect public information about GitHub users. This tool utilizes GitHub's public APIs to extract various data about a user, including: 
 
