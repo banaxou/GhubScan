@@ -34,9 +34,5 @@ Your email address will appear in the API as soon as you have posted two reposit
 | **Windows**   | ✅ Available          | cd GhubScan                           |
 | **Termux**    | ✅ Available          | python ghubscan.py                    |
 
-
-
-![GhubScan Installation](https://github.com/user-attachments/assets/b35dd913-a619-49cf-bfb9-1e8dfa628d3a)
-
 ---
 ## **ghubscan by ovax**
