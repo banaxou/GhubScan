@@ -12,6 +12,8 @@
 - 📂 **Number of repositories**
 - 👥 **Number of followers**
 - 👤 **Number of following users**
+  
+![ghubscan](https://github.com/user-attachments/assets/474f35b3-ddd0-435d-b26e-05abac005fd6)
 
 GhubScan relies on GitHub's **public APIs** [API 1](https://api.github.com/users/usergithub/events/public) and [API 2](https://api.github.com/users/usergithub) to extract this information. It allows you to retrieve a user's email along with other important data. This tool is useful for OSINT research or for getting an overview of publicly accessible information via a user’s GitHub profile
 
