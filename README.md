@@ -21,19 +21,31 @@ GhubScan relies on GitHub's **public APIs** [API 1](https://api.github.com/users
 
 *(To hide your information, you need to have a noreply email on GitHub, which looks like this: [ID+name@users.noreply.github.com])*  
 Your email address will appear in the API as soon as you have posted two repositories
-
+## install git
+- [gitbash](https://git-scm.com/downloads)
+```bash
+git config --global user.email "id+name@users.noreply.github.com"
+git config --global user.email
+git log
+```
 ---
 
 ## 🖥️ Install Python  
 - 🐍 **[Download Python](https://www.python.org/downloads/)**
-
+- ``` bash
+  git clone https://github.com/banaxou/GhubScan/
+  pip install fade
+  cd GhubScan
+  python ghubscan.py
+  ```
 ---
 
-| Platform      | Availability         | Command to Install                     |
-|---------------|----------------------|----------------------------------------|
-| **Linux**     | ✅ Available          |  git clone https://github.com/banaxou/GhubScan/ |                            
-| **Windows**   | ✅ Available          | cd GhubScan                           |
-| **Termux**    | ✅ Available          | python ghubscan.py                    |
+| Platform      | Availability         | 
+|---------------|----------------------|
+| **Linux**     | ✅ Available          |                
+| **Windows**   | ✅ Available          | 
+| **Termux**    | ✅ Available          | 
+
 
 ---
 ## **ghubscan by ovax**
