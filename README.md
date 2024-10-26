@@ -36,8 +36,8 @@ git log
 - 🐍 **[Download Python](https://www.python.org/downloads/)**
 - ``` bash
   git clone https://github.com/banaxou/GhubScan/
-  pip install fade
   cd GhubScan
+  bash start.sh or start.bat
   python ghubscan.py
   ```
 ---
