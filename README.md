@@ -1,4 +1,6 @@
-# 🔎 GhubScan - OSINT Tool               |✓ 2 november v1.1 |
+# 🔎 GhubScan - OSINT Tool     
+
+ |✓ 2 november v1.1 |
 <img src="https://github.com/user-attachments/assets/157de8d0-a6e8-4385-a79c-890dbfe73960" width="320px" height="320">
 
 
