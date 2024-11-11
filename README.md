@@ -10,20 +10,22 @@
 - 📧 **Email**
 - 🆔 **User ID**
 - 📝 **Name**
+
 - 🔑 **Username**
 - 🔗 **Link to GitHub profile**
 - 📂 **Number of repositories**
 - 👥 **Number of followers**
 - 👤 **Number of following users**
   
-![ghubscan](https://github.com/user-attachments/assets/474f35b3-ddd0-435d-b26e-05abac005fd6)
+![gu6](https://github.com/user-attachments/assets/c2acf21a-4225-40b6-9bdb-1c8870456c00)
 
 GhubScan relies on GitHub's **public APIs** [API 1](https://api.github.com/users/usergithub/events/public) and [API 2](https://api.github.com/users/usergithub) to extract this information. It allows you to retrieve a user's email along with other important data. This tool is useful for OSINT research or for getting an overview of publicly accessible information via a user’s GitHub profile
 
 ![gh2](https://github.com/user-attachments/assets/671bde1b-38a2-483e-b224-cd9568f314a3)
 
 
----
+![gugub](https://github.com/user-attachments/assets/5f95035a-fb71-4e56-8c79-6a5374c4aebc)
+
 
 ## ❓ How to Mask Your Information?
 
