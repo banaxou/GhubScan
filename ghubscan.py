@@ -1,12 +1,13 @@
 import os,requests,fade
 
+
 os.system('cls' if os.name == 'nt' else 'clear')
+
 R = "\033[0m"
 red = "\033[31m"
 green = "\033[32m"
 
-v = ['code by ovax', 'https://github.com/banaxou',"v1.1"]
-
+v = ['code by ovax', 'https://github.com/banaxou', "v1.1"]
 
 ba = f"""
  ▄▄ •  ▄ .▄▄• ▄▌▄▄▄▄· .▄▄ ·  ▄▄·  ▄▄▄·  ▐ ▄ 
@@ -19,16 +20,40 @@ ba = f"""
        {green}{v[2]}{R}                 {red}{v[0]}{R} | {green}{v[1]}{R}
 """
 print(fade.purplepink(ba))
+
 user = input(f"[{red}+{R}] {green}Enter GitHub username{R}: ")
 
 try:
+    print(f"{green}Scanning..{R}")
+
     apix = requests.get(f"https://api.github.com/users/{user}")
-    
+    re = requests.get(f"https://api.github.com/users/{user}/events/public")
+
     if apix.status_code == 200:
         print(f"{green}Request 200 - {R}")
+
         data = apix.json()
+
+        email_found = False
         w = 50
-        print(f"╔{'═' * w}╗")
+
+        if re.status_code == 200:
+            event_data = re.json()
+            for event in event_data:
+                if 'payload' in event and 'commits' in event['payload']:
+                    for commit in event['payload']['commits']:
+                        if 'author' in commit and 'email' in commit['author']:
+                            email = commit['author']['email']
+                            print(f"╔{'═' * w}╗")
+                            print(f"{red}Email :{R} {email}")
+                            email_found = True
+                            break
+                if email_found:
+                    break
+
+            if not email_found:
+                print(f"{red}No email found {R}")
+
         user_info = {
             'Pseudo': data.get('login', 'Not found'),
             'Icon': data.get('avatar_url', 'Not found'),
@@ -48,9 +73,9 @@ try:
 
         for key, value in user_info.items():
             print(f"{red}{key}:{R} {value}")
-        
+
         print(f"╚{'═' * 50}╝")
-        
+
         repos_url = f"https://api.github.com/users/{user}/repos?per_page=5"
         repos_data = requests.get(repos_url).json()
 
@@ -70,15 +95,14 @@ try:
 
         print(f"\n{green}Followers{R}:")
         for follower in follo_data:
-            print(f"- {follower['login']} - {follower['html_url']}")  
+            print(f"- {follower['login']} - {follower['html_url']}")
 
         follo_url = f"https://api.github.com/users/{user}/following?per_page=5"
         follo_data = requests.get(follo_url).json()
 
         print(f"\n{green}Following{R}:")
         for following in follo_data:
-            print(f"- {following['login']} - {following['html_url']}")  
-
+            print(f"- {following['login']} - {following['html_url']}")
 
         or_url = f"https://api.github.com/users/{user}/orgs"
         or_data = requests.get(or_url).json()
@@ -87,7 +111,6 @@ try:
         if not or_data:
             print(f"{red}No organizations found{R}")
         for org in or_data:
-
             org_url = org.get('html_url', 'Not found')
             print(f"- {org['login']} - {org_url}")
 
