@@ -52,6 +52,7 @@ try:
                     break
 
             if not email_found:
+                print(f"╔{'═' * w}╗")
                 print(f"{red}No email found {R}")
 
         user_info = {
