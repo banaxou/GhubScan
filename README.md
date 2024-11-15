@@ -1,4 +1,4 @@
-# bug fixes !!!
+# bug fixes  1.2 soon !!!
 ![banner](https://github.com/user-attachments/assets/6835a86e-c167-4622-ad7e-ce13b1884422)
 
 # 🔎 GhubScan - OSINT Tool    
