@@ -23,7 +23,8 @@ GhubScan relies on GitHub's **public APIs** [API 1](https://api.github.com/users
 
 
 
-![gugub](https://github.com/user-attachments/assets/5f95035a-fb71-4e56-8c79-6a5374c4aebc)
+![Ca](https://github.com/user-attachments/assets/b3d99313-d102-4710-8fc7-096ac8324b7b)
+
 
 
 ## ❓ How to Mask Your Information?
