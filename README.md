@@ -6,10 +6,9 @@
 
 **GhubScan** is an OSINT tool specifically designed to collect public information about GitHub users. This tool utilizes GitHub's public APIs to extract various data about a user, including: 
 
-- 📧 **Email**
+- 📧 **Email|old email**
 - 🆔 **User ID**
 - 📝 **Name**
-
 - 🔑 **Username**
 - 🔗 **Link to GitHub profile**
 - 📂 **Number of repositories**
