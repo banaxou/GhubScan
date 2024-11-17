@@ -62,7 +62,7 @@ try:
                     print(f"{red}List old/emails:{R}")
                     for email in emails:
                         if email != first:
-                            print(f"{red}email:{R} {email}")
+                            print(f"{red}old/email:{R} {email}")
                 else:
                     print(f"{red}email not found{R}")
             else:
