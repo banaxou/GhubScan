@@ -26,7 +26,7 @@ GhubScan relies on GitHub's **public APIs** [API 1](https://api.github.com/users
 
 *(To hide your information, you need to have a noreply email on GitHub, which looks like this: ID+name@users.noreply.github.com)*  
 Your email address will appear in the API as soon as you have posted two repositories
-![docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
+[docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
 
 ## install git
 - [gitbash](https://git-scm.com/downloads)
