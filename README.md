@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/6835a86e-c167-4622-ad7e-ce13b1884422)
 
-# 🔎 GhubScan - OSINT Tool    
+# 🔎 GhubScan - OSINT Tool    1.3 soon!
 <img src="https://github.com/user-attachments/assets/157de8d0-a6e8-4385-a79c-890dbfe73960" width="320px" height="320">
 
 
