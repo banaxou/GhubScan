@@ -233,6 +233,10 @@ def menu():
             idéfix(agent=agent)
         elif inp == "4":
             os.system('cls' if os.name == 'nt' else 'clear')
+        elif inp == "0":
+            print(f"{red}code by ovax ;){R}")
+            time.sleep(2)
+            break
         else:
             print(f"{red} invalid {R}")
             time.sleep(2)
