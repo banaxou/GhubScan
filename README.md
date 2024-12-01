@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/6835a86e-c167-4622-ad7e-ce13b1884422)
 
-# 🔎 GhubScan - OSINT Tool    1.3 soon!
+# 🔎 GhubScan - OSINT Tool    1.3 !
 <img src="https://github.com/user-attachments/assets/157de8d0-a6e8-4385-a79c-890dbfe73960" width="320px" height="320">
 
 
@@ -15,7 +15,9 @@
 - 👥 **Number of followers**
 - 👤 **Number of following users**
 
-![Ca](https://github.com/user-attachments/assets/214a472f-8d78-4bb4-90c8-d2ad62c12f7a)
+![gh](https://github.com/user-attachments/assets/64a90d1a-5046-4edd-8b65-8e4ece8c8575)
+
+
 
 GhubScan relies on GitHub's **public APIs** [API 1](https://api.github.com/users/usergithub/events/public) and [API 2](https://api.github.com/users/usergithub) to extract this information. It allows you to retrieve a user's email along with other important data. This tool is useful for OSINT research or for getting an overview of publicly accessible information via a user’s GitHub profile
 
