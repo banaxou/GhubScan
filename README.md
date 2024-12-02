@@ -49,7 +49,7 @@ git log
 |---------------|----------------------|
 | **Linux**     | ✅ Available          |                
 | **Windows**   | ✅ Available          | 
-| **Termux**    | ✅ Available          | 
+| **Termux**    | ❌                   | 
 
 
 ---
