@@ -1,9 +1,10 @@
+---
 # 🔎 GhubScan - OSINT Tool    1.3
 <img src="https://github.com/user-attachments/assets/6835a86e-c167-4622-ad7e-ce13b1884422" alt="banner">
 
 <a href="https://github.com/banaxou/GhubScan /stargazers"><img src="https://img.shields.io/github/stars/banaxou/GhubScan" alt="Stars Badge"/></a>
 <a href="https://github.com/banaxou/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/banaxou/GhubScan" alt="Forks Badge"/></a>
-
+---
 <img src="https://github.com/user-attachments/assets/157de8d0-a6e8-4385-a79c-890dbfe73960" width="320px" height="320">
 
 
