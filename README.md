@@ -1,4 +1,3 @@
-# GhubScan 
 <img src="https://github.com/user-attachments/assets/6835a86e-c167-4622-ad7e-ce13b1884422" alt="banner">
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/banaxou/GhubScan" alt="Stars Badge"/></a>
 <a href="https://github.com/banaxou/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/banaxou/GhubScan" alt="Forks Badge"/></a>
