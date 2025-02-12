@@ -1,5 +1,5 @@
 ---
-# 🔎 GhubScan - OSINT Tool    1.3
+# 🔎 GhubScan - OSINT Tool    1.3 (1.4) soon
 <img src="https://github.com/user-attachments/assets/6835a86e-c167-4622-ad7e-ce13b1884422" alt="banner">
 
 <a href="https://github.com/banaxou/GhubScan /stargazers"><img src="https://img.shields.io/github/stars/banaxou/GhubScan" alt="Stars Badge"/></a>
