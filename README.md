@@ -1,5 +1,5 @@
 ---
-# 🔎 GhubScan - OSINT Tool    1.3 (1.4) soon
+# 🔎 GhubScan - OSINT Tool  1.4 
 <img src="https://github.com/user-attachments/assets/6835a86e-c167-4622-ad7e-ce13b1884422" alt="banner">
 
 <a href="https://github.com/banaxou/GhubScan /stargazers"><img src="https://img.shields.io/github/stars/banaxou/GhubScan" alt="Stars Badge"/></a>
@@ -18,11 +18,63 @@
 - 📂 **Number of repositories**
 - 👥 **Number of followers**
 - 👤 **Number of following users**
-  
+
 ![gh](https://github.com/user-attachments/assets/103acd43-1908-4a44-9a3f-21e4ed7be00c)
 
-GhubScan relies on GitHub's **public APIs** [API 1](https://api.github.com/users/usergithub/events/public) and [API 2](https://api.github.com/users/usergithub) to extract this information. It allows you to retrieve a user's email along with other important data. This tool is useful for OSINT research or for getting an overview of publicly accessible information via a user’s GitHub profile
+GhubScan relies on GitHub's **public APIs** [API 1](https://api.github.com/users/usergithub/events/public) and [API 2](https://api.github.com/users/usergithub) to extract this information. It allows for quick and efficient OSINT operations on GitHub profiles.
 
+## 🖥️ Install Python  
+- 🐍 **[Download Python](https://www.python.org/downloads/)**
+- ```bash
+  git clone https://github.com/banaxou/GhubScan/
+  cd GhubScan
+  bash start.sh or start.bat
+  python ghubscan.py
+  ```
+## 🟢 Usage 
+[pypi gub](https://pypi.org/project/gub/)
+```sh
+pip install gub
+```
+
+You can also install GhubScan from GitHub:
+
+```sh
+git clone https://github.com/banaxou/GhubScan/
+```
+
+---
+### Commands
+
+- Get user information:
+  ```sh
+  gub -u username
+  ```
+
+- Search by email:
+  ```sh
+  gub -e email@example.com
+  ```
+
+- Get user info by ID:
+  ```sh
+  gub -id 123456
+  ```
+
+- Help command:
+  ```sh
+  gub -h
+  ```
+
+---
+
+| Platform      | Availability         | 
+|---------------|----------------------|
+| **Linux**     | ✅ Available          |                
+| **Windows**   | ✅ Available          | 
+| **Termux**    | ✅ Available          | 
+
+---
 
 ## ❓ How to Mask Your Information?
 
@@ -39,22 +91,4 @@ git log
 ```
 ---
 
-## 🖥️ Install Python  
-- 🐍 **[Download Python](https://www.python.org/downloads/)**
-- ``` bash
-  git clone https://github.com/banaxou/GhubScan/
-  cd GhubScan
-  bash start.sh or start.bat
-  python ghubscan.py
-  ```
----
-
-| Platform      | Availability         | 
-|---------------|----------------------|
-| **Linux**     | ✅ Available          |                
-| **Windows**   | ✅ Available          | 
-| **Termux**    | ❌                   | 
-
-
----
 ## **🪷 ghubscan by ovax**
