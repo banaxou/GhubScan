@@ -32,7 +32,7 @@ GhubScan relies on GitHub's **public APIs** [API 1](https://api.github.com/users
   python ghubscan.py
   ```
 ## 🟢 Usage 
--[pypi gub](https://pypi.org/project/gub/)
+- [pypi gub](https://pypi.org/project/gub/)
 ```sh
 pip install gub
 ```
