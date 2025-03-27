@@ -92,3 +92,10 @@ git log
 ---
 
 ## **🪷 ghubscan by ovax**
+
+Your donations help fund my open source projects and major projects as well as useful tools and services:
+
+### <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="20" height="20"> Ethereum  
+[`0x190feaDcd1b19F0bc3Faa39A0d5904E072CCA627`](https://etherscan.io/address/0x190feaDcd1b19F0bc3Faa39A0d5904E072CCA627)
+
+---
