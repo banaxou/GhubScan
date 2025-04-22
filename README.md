@@ -105,5 +105,6 @@ Your donations help fund my open source projects and major projects as well as u
 
 ---
 
-### <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" width="20" height="20"> Monero  
-[`43gceWv7JZEUtTQxt28yJA6wxCwtQ5aWFhNW2yaLfLs43ZRNMnjczrRcPyQ2bJkdkb3pPSbZsc93BH5fwiFNUnT8CRZbsPA`](https://explorer.monero.org/address/43gceWv7JZEUtTQxt28yJA6wxCwtQ5aWFhNW2yaLfLs43ZRNMnjczrRcPyQ2bJkdkb3pPSbZsc93BH5fwiFNUnT8CRZbsPA)
+### <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" width="20" height="20">
+ Monero  
+[43gceWv7JZEUtTQxt28yJA6wxCwtQ5aWFhNW2yaLfLs43ZRNMnjczrRcPyQ2bJkdkb3pPSbZsc93BH5fwiFNUnT8CRZbsPA](https://explorer.monero.org/address/43gceWv7JZEUtTQxt28yJA6wxCwtQ5aWFhNW2yaLfLs43ZRNMnjczrRcPyQ2bJkdkb3pPSbZsc93BH5fwiFNUnT8CRZbsPA)
