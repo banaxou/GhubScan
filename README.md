@@ -95,15 +95,19 @@ git log
 
 Your donations help fund my open source projects and major projects as well as useful tools and services:
 
-### <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="20" height="20"> Ethereum  
-[`0x190feaDcd1b19F0bc3Faa39A0d5904E072CCA627`](https://etherscan.io/address/0x190feaDcd1b19F0bc3Faa39A0d5904E072CCA627)
+### Ethereum  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="20">  
+
+[0x190feaDcd1b19F0bc3Faa39A0d5904E072CCA627](https://etherscan.io/address/0x190feaDcd1b19F0bc3Faa39A0d5904E072CCA627)
 
 ---
 
-### <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" width="20" height="20"> Bitcoin  
-[`bc1qs2sf3hwz9a72vk6yd2cnahzfpequlw67k8hd5c`](https://blockchair.com/bitcoin/address/bc1qs2sf3hwz9a72vk6yd2cnahzfpequlw67k8hd5c)
+### Bitcoin  
 
----
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="20"> 
+ 
+[bc1qs2sf3hwz9a72vk6yd2cnahzfpequlw67k8hd5c](https://blockchair.com/bitcoin/address/bc1qs2sf3hwz9a72vk6yd2cnahzfpequlw67k8hd5c)
+
 
 ### <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" width="20" height="20">
  Monero  
