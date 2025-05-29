@@ -90,22 +90,21 @@ git config --global user.email
 git log
 ```
 ---
+## 🌸 Contribute
 
-## **🪷 ghubscan by ovax**
+**Feel free to open an issue or pull request to suggest improvements! ;)**
 
-Your donations help fund my open source projects and major projects as well as useful tools and services:
+Your donations support my open source tools and major projects:
 
-### Ethereum  
+<h1>Ethereum</h1>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="20">  
 
 [0x4cc818bc2C4291CEa8117D9F8D8417EE054fEA58](https://etherscan.io/address/0x4cc818bc2C4291CEa8117D9F8D8417EE054fEA58)
 
 ---
+‎<h1>sol</h1>
+<img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png" width="20">
 
-### Bitcoin  
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="20"> 
- 
-[bc1pch0t574x0xpr6vad5ru0862kyw9le8qv2ja3ufdpnhz4hfcp54ksn2guqy](https://blockchair.com/bitcoin/address/bc1pch0t574x0xpr6vad5ru0862kyw9le8qv2ja3ufdpnhz4hfcp54ksn2guqy)
+[BVMkqwkMjtTNmD5spKayhYeb6JUfmReGxGaD4kcetXp2](https://solscan.io/account/BVMkqwkMjtTNmD5spKayhYeb6JUfmReGxGaD4kcetXp2)
 
 
