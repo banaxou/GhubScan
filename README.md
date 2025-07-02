@@ -89,12 +89,17 @@ git config --global user.email "id+name@users.noreply.github.com"
 git config --global user.email
 git log
 ```
----
 ## 🌸 Contribute
 
-**Feel free to open an issue or pull request to suggest improvements! ;)**
+**Issues and PRs are welcome !**  
+Want to suggest an improvement or help with code? Open an issue or pull request 
+## 💬​ **Join r/veloxia | The OSINT & Dev Community**  
+[r/veloxia](https://www.reddit.com/r/veloxia/)
 
-Your donations support my open source tools and major projects:
+---
+## ❤️ Donate
+
+Your support helps keep this tool alive and open source!
 
 <h1>Ethereum</h1>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="20">  
@@ -107,4 +112,6 @@ Your donations support my open source tools and major projects:
 
 [BVMkqwkMjtTNmD5spKayhYeb6JUfmReGxGaD4kcetXp2](https://solscan.io/account/BVMkqwkMjtTNmD5spKayhYeb6JUfmReGxGaD4kcetXp2)
 
+> **Ghubscan 1.4**
+---
 
