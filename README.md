@@ -1,16 +1,14 @@
 ---
-# 🔎 GhubScan - OSINT Tool  1.3
+# 🔎 GhubScan - OSINT Tool  1.4 it's coming in a few hours
 <img src="https://github.com/user-attachments/assets/6835a86e-c167-4622-ad7e-ce13b1884422" alt="banner">
 
 <a href="https://github.com/banaxou/GhubScan /stargazers"><img src="https://img.shields.io/github/stars/banaxou/GhubScan" alt="Stars Badge"/></a>
 <a href="https://github.com/banaxou/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/banaxou/GhubScan" alt="Forks Badge"/></a>
 ---
-<img src="https://github.com/user-attachments/assets/157de8d0-a6e8-4385-a79c-890dbfe73960" width="320px" height="320">
-
 
 **GhubScan** is an OSINT tool specifically designed to collect public information about GitHub users. This tool utilizes GitHub's public APIs to extract various data about a user, including: 
 
-- 📧 **Email|old email**
+- 📧 **Email | old email (commits)**
 - 🆔 **User ID**
 - 📝 **Name**
 - 🔑 **Username**
@@ -34,7 +32,7 @@ GhubScan relies on GitHub's **public APIs** [API 1](https://api.github.com/users
 ## 🟢 Usage 
 - [pypi gub](https://pypi.org/project/gub/)
 ```sh
-pip install gub
+pip install gub ( 1.3 bug ) 
 ```
 
 You can also install GhubScan from GitHub:
@@ -83,6 +81,8 @@ Your email address will appear in the API as soon as you have posted two reposit
 [docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
 
 ## install git
+- github > Settings > emails (Keep my email addresses private )
+or
 - [gitbash](https://git-scm.com/downloads)
 ```bash
 git config --global user.email "id+name@users.noreply.github.com"
@@ -109,6 +109,6 @@ Your support helps keep this tool alive and open source!
 
 [BVMkqwkMjtTNmD5spKayhYeb6JUfmReGxGaD4kcetXp2](https://solscan.io/account/BVMkqwkMjtTNmD5spKayhYeb6JUfmReGxGaD4kcetXp2)
 
-> **Ghubscan 1.3**
+> **Ghubscan 1.4**
 ---
 
